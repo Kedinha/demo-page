@@ -523,6 +523,7 @@ footer.footer .move-up span :hover {
 
   main .site-content {
     grid-template-columns: 100%;
+        margin-top: 10rem;
   }
 
   footer.footer .container {
